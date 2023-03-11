@@ -1,0 +1,69 @@
+.first{
+    height: 70vh;
+    width: 100%;
+}
+.text{
+    padding: 3%;
+    position: relative;
+    /* background-image: url("aathor.webp"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+    
+   
+    /* position: absolute;
+    opacity: 0.3;
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+    filter: contrast(5px); */
+
+    
+}
+.updatetext{
+    padding: 3%;
+    position: relative;
+    /* background-image: url("aathor.webp"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(114, 152, 187);
+}
+.bg{
+    background-color: white ;
+}
+.search{
+    width: 100%;
+   
+}
+.bgview{
+    background-image: url("update1.jpg");
+    
+}
+.textvi{
+    font-size:larger;
+}
+.background{
+    background-image:url("build.jpg");
+
+    height: 80vh;
+    width: 100%;
+    position: absolute;
+    opacity: 1;
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+    filter: contrast(5px);
+    object-fit: cover;
+}
+
+.background-update{
+    background-image:url("build1.webp");
+
+    height: 80vh;
+    width: 100%;
+    position: absolute;
+    opacity: 1;
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+    filter: contrast(5px);
+    object-fit: cover;
+
+}
